@@ -1,2 +1,4 @@
 # HelloGitHub
-Hello,github
+Hello,github!
+I am Jerry-tech-bot.
+
